@@ -1,0 +1,80 @@
+.style{
+  float:right;
+  position: relative;
+  right:300px;
+  bottom: 80px;
+}
+.style input[type=text]{
+  border-radius: 10px;
+
+}
+nav.a{
+
+  text-align: center;
+
+  position:relative;
+  top:-20px;
+}
+nav.a a:link,a:visited{
+  color:red;
+  text-decoration: none;
+  margin-right:100px;
+  margin-left: 100px;
+  text-align: center;
+  width: 100%
+
+}
+nav.a a:hover{
+  color:hotpink;
+}
+.new{
+  margin:0px;
+  padding: 0px;
+}
+.new p{
+  color:black;
+  font-size:120px;
+  margin:0px;
+  padding: 0px;
+}
+.new a:link{
+  color:black;
+  text-decoration: none;
+}
+.new a:hover{
+  color:white;
+  text-decoration: none;
+}
+.game{
+  line-height: 0.5px;
+}
+.old{
+  margin:0px;
+  padding: 0px;
+}
+.old p{
+  color:white;
+  font-size:120px;
+  margin:0px;
+  padding: 0px;
+}
+.old a:link{
+  color:black;
+  text-decoration: none;
+}
+.old a:hover{
+  color:white;
+  text-decoration: none;
+}
+nav.b a:link,a:visited{
+  color:white;
+  text-decoration: none;
+  margin-right:100px;
+  margin-left: 150px;
+  text-align: center;
+  width: 100%
+
+}
+nav.b a:hover{
+  color:hotpink;
+}
